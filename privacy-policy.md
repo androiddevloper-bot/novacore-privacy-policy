@@ -24,4 +24,4 @@ This policy may be updated from time to time.
 
 ## Contact Us
 If you have any questions, contact us at:
-novacoreapps@gmail.com
+devlopersupport@gmail.com
